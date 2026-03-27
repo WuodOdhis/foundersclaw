@@ -5,7 +5,7 @@
     {
       "id": "agent",
       "args": {
-        "image": "cyborg81/foundersclaw:latest",
+        "image": "cyborg81/foundersclaw@sha256:39ba71b8087a13485add586d59b3e15bf1834fd51fc22fed88fe31ddc0ff76f8",
         "expose": 3000,
         "env": {
           "OPENAI_API_KEY": "nosana",
